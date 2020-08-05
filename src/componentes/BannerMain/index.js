@@ -1,3 +1,7 @@
+/* eslint-disable quotes */
+/* eslint-disable spaced-comment */
+/* eslint-disable react/prop-types */
+/* eslint-disable no-multiple-empty-lines */
 import React from 'react';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
 import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
@@ -18,7 +22,11 @@ export default function BannerMain({
   url,
 }) {
   const youTubeID = getYouTubeId(url);
-  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  //const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`; //Original
+  //const bgUrl = <img className="Logo" src={BannerThiago} alt="Devflix logo"/> //Local
+
+  const bgUrl = `http://getwallpapers.com/wallpaper/full/0/6/4/40669.jpg`; //Novo
+
 
   return (
     <BannerMainContainer backgroundImage={bgUrl}>

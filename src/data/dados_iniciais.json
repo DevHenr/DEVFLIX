@@ -3,15 +3,16 @@
     {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#DC143C",
+      "cor": "#00C86F",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Meu nome é Thiago, confira o projeto feito por mim e minha equipe! #CLS",
+         "url": "https://www.youtube.com/watch?v=KEgRxx7D9Bc&feature=youtu.be"
+
         },
         {
           "titulo": "SEO com React",
@@ -45,7 +46,7 @@
     },
     {
       "titulo": "Back End",
-      "cor": "#DC143C",
+      "cor": "#fca400",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +76,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#DC143C",
+      "cor": "#6BD1FF",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -101,7 +102,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "#DC143C",
+      "cor": "#ffd000",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -123,7 +124,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "#DC143C",
+      "cor": "#ea00ff",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -153,7 +154,7 @@
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#DC143C",
+      "cor": "#ff0751",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"

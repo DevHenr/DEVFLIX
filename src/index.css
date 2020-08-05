@@ -10,8 +10,13 @@
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
   --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
-  --backEnd: #00C86F;
+  --frontEnd: #00C86F;
+  --BacktEnd: #fca400;
+  --DataScience: #6BD1FF;
+  --Games: #ea00ff;
+  --Learn: #ff0751;
+  --Ciano: #00FFFF;
+  
 }
 
 html,
